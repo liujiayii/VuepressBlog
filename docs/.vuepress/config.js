@@ -19,11 +19,18 @@ module.exports = {
     // 所有页面自动生成侧边栏
     sidebar: 'auto',
     // 仓库地址
-    repo: 'https://github.com/liujiayii',
+    repo: 'https://github.com/liujiayii/liujiayii.github.io',
     // 仓库链接label
     repoLabel: 'Github',
+    // 假如你的文档仓库和项目本身不在一个仓库：
+    docsRepo: 'https://github.com/liujiayii/vuepress',
+    // 假如文档不是放在仓库的根目录下：
+    docsDir: 'docs',
+    // 假如文档放在一个特定的分支下：
     // 编辑链接
     editLinks: true,
+    //最后更新时间
+    lastUpdated: '上次更新',
     // 编辑链接label
     editLinkText: '编辑此页',
     // 导航
