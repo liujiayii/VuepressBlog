@@ -29,8 +29,6 @@ module.exports = {
     // 假如文档放在一个特定的分支下：
     // 编辑链接
     editLinks: true,
-    //最后更新时间
-    lastUpdated: '上次更新',
     // 编辑链接label
     editLinkText: '编辑此页',
     // 导航
