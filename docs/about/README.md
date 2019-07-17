@@ -1,7 +1,7 @@
 
 # 关于我
 ## 目前
-+ 中了Vue的毒
++ 学习React中，稍后会分享React和Vue.js的学习感悟
 ***
 ## 联系我
 + EMail:liujiayii@foxmail.com
