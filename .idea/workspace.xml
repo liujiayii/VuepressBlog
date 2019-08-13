@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51f24437-acd4-4792-aff1-3d5c6b88d184" name="Default Changelist" comment="" />
+    <list default="true" id="51f24437-acd4-4792-aff1-3d5c6b88d184" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/common/git.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/common/你不知道的javascript上.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/common/你不知道的javascript中.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/common/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/common/vuepress基础配置功能.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,13 +17,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1Mj9HTjfJv40y8bLwZL7nIJhU0O" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/common" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -24,7 +34,16 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\vuepress\docs\common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\vuepress\docs\common" />
+      <recent name="E:\vuepress\docs" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.docs:dev">
+  <component name="RunManager" selected="npm.docs:build">
     <configuration name="docs:build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -61,8 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.docs:dev" />
         <item itemvalue="npm.docs:build" />
+        <item itemvalue="npm.docs:dev" />
       </list>
     </recent_temporary>
   </component>
@@ -86,7 +105,10 @@
       <workItem from="1562332682453" duration="865000" />
       <workItem from="1563289072005" duration="436000" />
       <workItem from="1563289623330" duration="68000" />
-      <workItem from="1563367105928" duration="7416000" />
+      <workItem from="1563367105928" duration="7952000" />
+      <workItem from="1564661202585" duration="42000" />
+      <workItem from="1564661353089" duration="31000" />
+      <workItem from="1565703732913" duration="1861000" />
     </task>
     <servers />
   </component>

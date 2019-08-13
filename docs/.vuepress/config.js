@@ -5,7 +5,7 @@ module.exports = {
   description: '前端掌握未来',
   head: [
     // 页面icon
-    ['link', { rel: 'icon', href: '/icon.png' }]
+    ['link', {rel: 'icon', href: '/icon.png'}]
   ],
   // 端口号
   port: 3000,
@@ -14,8 +14,7 @@ module.exports = {
     lineNumbers: true
   },
   themeConfig: {
-    // 最后更新时间
-    lastUpdated: '最后更新', // string | boolean
+    lastUpdated: '最后更新时间', // string | boolean
     // 所有页面自动生成侧边栏
     sidebar: 'auto',
     // 仓库地址
@@ -33,13 +32,23 @@ module.exports = {
     editLinkText: '编辑此页',
     // 导航
     nav: [
-      { text: '学习历程', items: [
-          { text: '使用React、Vue.js重构的网站', link: '/study/使用React、Vue.js重构的网站'},
-          { text: '初识React', link: '/study/初识React'},
-        ]},
-      { text: '基础配置功能',link: '/common/'},
-      { text: '关于我',link: '/about/'}
-  ]},
+      {
+        text: '学习历程', items: [
+          {text: '使用React、Vue.js重构的网站', link: '/study/使用React、Vue.js重构的网站'},
+          {text: '初识React', link: '/study/初识React'},
+        ]
+      },
+      {
+        text: '搬运工人', items: [
+          {text: 'vuepress基础配置', link: '/common/vuepress基础配置功能'},
+          {text: '你不知道的javascript上', link: '/common/你不知道的javascript上'},
+          {text: '你不知道的javascript中', link: '/common/你不知道的javascript中'},
+          {text: 'git', link: '/common/git'}
+        ]
+      },
+      {text: '关于我', link: '/about/'}
+    ]
+  },
   configureWebpack: {
     resolve: {
       // 静态资源的别名
