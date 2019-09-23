@@ -1,12 +1,12 @@
 
 # 关于我
 ## 目前
-+ 学习React中，稍后会分享React和Vue.js的学习感悟
++ 学习React中
 ***
 ## 联系我
 + EMail:liujiayii@foxmail.com
 + GitHub:[https://github.com/liujiayi/](https://github.com/liujiayi/)
-+ Site:ShiJiaZhuang
++ Site:石家庄
 + phone:
 ***
 ## 座右铭
@@ -19,6 +19,13 @@
     + 根据项目需求开发项目前端页面，还原效果图，将psd文件写出html页面，并适应各主流浏览器
     + 使用js、jq、h5和c3实现页面特效，并解决特效兼容性问题
 ***
+## 技能特长
++ 精通DIV+CSS布局的HTML代码编写，熟练手写符合W3C标准的代码，能够根据交互原型和UI设计图完整制作出网页，熟练应用dom、xml、json、ajax等相关技术
++ 熟悉Bootstrap、layui、Vue、Element-ui、React、Ant Design等前端框架，了解Nodejs和VUE、React以及github、SVN等技术和团队协作开发工具
++ 具备抗压能力、且有一定自学能力，能够熟练阅读使用中文API，英文API可以大概看懂并运用
++ 参与开发过电商、企业、移动端和小程序等项目
++ **参与的项目以中后台单页应用、小程序为主**
+***
 ## 项目经验
 + **项目一、乐豆坊**
     + **技术栈：** HTML、css、WordPress等。
@@ -29,8 +36,8 @@
     + **项目描述：** 风控反欺诈金融后台系统，使用layui大大加速了项目的进度，登录方式采取了加密狗+账号密码的方式，随时切换
     + **项目总结：** 前端使用layui门槛低的同时也给java小伙伴带来了很多麻烦，以后尽量避免使用layui。[点击](http://risk.yunquekeji.com/)进入项目地址。
 + **项目三、喝小酒儿**
-    + **技术栈：** layui、小程序等。
-    + **项目描述：** 喝小酒儿的pc端后台管理系统（由于赶时间还是上了layui-.-）、小程序端的分店管理系统、小程序端的商城。
+    + **技术栈：** layui、jQuery、小程序等。
+    + **项目描述：** 小程序采取了原生开发的方式，使用了有赞vant组件库加速开发，后台采用了layui+jQuery的技术栈，方便客户编辑商品、优惠券、商品分类等。
     + **项目总结：** 微信小程序+layui后台，[点击](https:/www.drinksmallwine.cn)进入项目地址。
 + **项目四、喔驰汽贸**
     + **技术栈：** Vue、Element-ui、Jquery
@@ -39,16 +46,17 @@
  + **项目五、云阙网络大官网**
     + **技术栈：** Vue、Iview、Jquery、wangEditor、webscoket
     + **项目描述：** 云阙集团大官网，涉及云阙集团官网、云阙集团论坛、云阙集团商城。
-    + **项目总结：** 正在进行中……
+    + **项目总结：** 使用了jQuery ajax和后端进行数据交互，使用了vue.js渲染页面数据，加入了部分响应式设计。
+ + **项目六、财务系统**
+     + **技术栈：** Vue、Vue-router、Element-ui、axios
+     + **项目描述：** 公司内部使用的财务系统
+     + **项目总结：** 使用了主流技术为财务部门服务
+  + **项目六、云小讴官网**
+      + **技术栈：** Vue、Jquery、React、Ant Design、Umi、dva等
+      + **项目描述：** 云小讴公司的官网
+      + **项目总结：** 网站前台是响应式布局，数据渲染采取的是vue.js，数据交互使用了jQuery ajax网站前台是响应式布局，数据渲染采取的是vue.js，数据交互使用了jQuery ajax，网站后台使用的是react技术栈，ant design+umi+dva等前端前沿的技术，方便官网上下架新闻、修改公司信息等。
 ***
-## 技能特长
-+ 精通DIV+CSS布局的HTML代码编写，熟练手写符合W3C标准的代码，能够根据交互原型和UI设计图完整制作出网页
-+ 熟悉Javascript、css3和html5，且能熟练运用JQuery框架实现网页常用特效，掌握面向对象编程思想
-+ 熟练应用dom、xml、json、ajax等相关技术
-+ 熟悉Bootstrap、layui、Vue、Element-ui、ECharts等前端框架，了解Nodejs和VUE以及github、SVN等技术和团队协作开发工具
-+ 具备抗压能力、且有一定自学能力，能够熟练阅读使用中文API，英文API可以大概看懂并运用
-+ 开发过电商、企业和移动端网站前端项目
-***
+
 ## 教育经历
 + 学校：贵州大学明德学院（本科）
 + 时间：2014/09-2018/07

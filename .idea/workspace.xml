@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51f24437-acd4-4792-aff1-3d5c6b88d184" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/common/git.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/common/你不知道的javascript上.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/common/你不知道的javascript中.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/common/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/common/vuepress基础配置功能.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +17,11 @@
   <component name="ProjectId" id="1Mj9HTjfJv40y8bLwZL7nIJhU0O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -109,6 +109,19 @@
       <workItem from="1564661202585" duration="42000" />
       <workItem from="1564661353089" duration="31000" />
       <workItem from="1565703732913" duration="1861000" />
+      <workItem from="1565966010089" duration="49000" />
+      <workItem from="1565966120114" duration="128000" />
+      <workItem from="1567266913658" duration="21000" />
+      <workItem from="1567266985064" duration="22000" />
+      <workItem from="1567842922480" duration="31000" />
+      <workItem from="1567843491777" duration="16000" />
+      <workItem from="1568904775110" duration="24000" />
+      <workItem from="1568904842764" duration="212000" />
+      <workItem from="1568905115171" duration="426000" />
+      <workItem from="1568905699446" duration="50000" />
+      <workItem from="1569162637211" duration="208000" />
+      <workItem from="1569162907657" duration="17000" />
+      <workItem from="1569245627652" duration="1855000" />
     </task>
     <servers />
   </component>
@@ -141,5 +154,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1186" height="283" key="GridCell.Tab.0.bottom" timestamp="1569247492035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1186" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1569247492035" />
+    <state width="1186" height="283" key="GridCell.Tab.0.center" timestamp="1569247492035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1186" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1569247492035" />
+    <state width="1186" height="283" key="GridCell.Tab.0.left" timestamp="1569247492034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1186" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1569247492034" />
+    <state width="1186" height="283" key="GridCell.Tab.0.right" timestamp="1569247492035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1186" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1569247492035" />
   </component>
 </project>
