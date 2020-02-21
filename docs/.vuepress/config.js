@@ -1,11 +1,11 @@
 module.exports = {
   // 页面标题
-  title: 'VuePress',
+  title: 'Weber',
   // 网页描述
-  description: '前端掌握未来',
+  description: '前端掌握未来!',
   head: [
     // 页面icon
-    ['link', {rel: 'icon', href: '/icon.png'}]
+    ['link', { rel: 'icon', href: '/icon.png' }]
   ],
   // 端口号
   port: 3000,
@@ -34,19 +34,19 @@ module.exports = {
     nav: [
       {
         text: '学习历程', items: [
-          {text: '使用React、Vue.js重构的网站', link: '/study/使用React、Vue.js重构的网站'},
-          {text: '初识React', link: '/study/初识React'},
+          { text: '使用React、Vue.js重构的网站', link: '/study/使用React、Vue.js重构的网站' },
+          { text: '初识React', link: '/study/初识React' },
         ]
       },
       {
         text: '搬运工人', items: [
-          {text: 'vuepress基础配置', link: '/common/vuepress基础配置功能'},
-          {text: '你不知道的javascript上', link: '/common/你不知道的javascript上'},
-          {text: '你不知道的javascript中', link: '/common/你不知道的javascript中'},
-          {text: 'git', link: '/common/git'}
+          { text: 'vuepress基础配置', link: '/common/vuepress基础配置功能' },
+          { text: '你不知道的javascript上', link: '/common/你不知道的javascript上' },
+          { text: '你不知道的javascript中', link: '/common/你不知道的javascript中' },
+          { text: 'git', link: '/common/git' }
         ]
       },
-      {text: '关于我', link: '/about/'}
+      { text: '关于我', link: '/about/' }
     ]
   },
   configureWebpack: {
@@ -57,5 +57,6 @@ module.exports = {
         '@vue': '../images/vue'
       }
     }
-  }
+  },
+  plugins: ['@vuepress/back-to-top', '@vuepress/active-header-links']
 }

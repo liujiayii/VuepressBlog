@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="51f24437-acd4-4792-aff1-3d5c6b88d184" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/study/初识React.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/study/初识React.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,13 +24,12 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../liujiayii.github.io" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,18 +47,6 @@
       <recent name="E:\vuepress\docs\common" />
       <recent name="E:\vuepress\docs" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="npm.docs:build">
     <configuration name="docs:build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -122,20 +113,21 @@
       <workItem from="1569162637211" duration="208000" />
       <workItem from="1569162907657" duration="17000" />
       <workItem from="1569245627652" duration="1855000" />
+      <workItem from="1569742011337" duration="426000" />
+      <workItem from="1569742604882" duration="297000" />
+      <workItem from="1582259509448" duration="2546000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -156,21 +148,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1186" height="283" key="GridCell.Tab.0.bottom" timestamp="1569247492035">
+    <state x="937" y="299" key="FileChooserDialogImpl" timestamp="1582261419891">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1186" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1569247492035" />
-    <state width="1186" height="283" key="GridCell.Tab.0.center" timestamp="1569247492035">
+    <state x="937" y="299" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582261419891" />
+    <state width="1508" height="171" key="GridCell.Tab.0.bottom" timestamp="1582262056209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1186" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1569247492035" />
-    <state width="1186" height="283" key="GridCell.Tab.0.left" timestamp="1569247492034">
+    <state width="1508" height="171" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582262056209" />
+    <state width="1508" height="171" key="GridCell.Tab.0.center" timestamp="1582262056209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1186" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1569247492034" />
-    <state width="1186" height="283" key="GridCell.Tab.0.right" timestamp="1569247492035">
+    <state width="1508" height="171" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582262056209" />
+    <state width="1508" height="171" key="GridCell.Tab.0.left" timestamp="1582262056209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1186" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1569247492035" />
+    <state width="1508" height="171" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582262056209" />
+    <state width="1508" height="171" key="GridCell.Tab.0.right" timestamp="1582262056209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1508" height="171" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582262056209" />
   </component>
 </project>
